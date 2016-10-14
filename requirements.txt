@@ -8,6 +8,6 @@ Jinja2==2.8
 MarkupSafe==0.23
 python-engineio==1.0.3
 python-socketio==1.6.0
+PyYAML==3.12
 six==1.10.0
 Werkzeug==0.11.11
-wheel==0.24.0
